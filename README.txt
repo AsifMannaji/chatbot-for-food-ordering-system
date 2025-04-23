@@ -25,3 +25,6 @@ ngrok for https tunneling
 3. Open windows command prompt, go to that folder and run this command: ngrok http 80000
 
 NOTE: ngrok can timeout. you need to restart the session if you see session expired message.
+
+
+Description: A chatbot for food ordering systems utilizing Natural Language Processing (NLP) enables users to effortlessly place orders using natural language. The chatbot interprets user input, navigates menu options, and manages orders, calculating totals and confirming orders. With integration capabilities, it can facilitate payment processing and personalize recommendations. By leveraging NLP libraries and integrating with food ordering systems and databases, this chatbot streamlines the ordering process, enhancing customer experience and efficiency. It can be applied to food delivery platforms or restaurant websites, making food ordering more convenient and user-friendly.
